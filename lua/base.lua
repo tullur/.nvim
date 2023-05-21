@@ -25,3 +25,4 @@ local cmd = vim.cmd
 
 cmd "syntax enable"
 cmd "filetype plugin indent on"
+cmd "colorscheme gruvbox"
