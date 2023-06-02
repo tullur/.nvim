@@ -1,5 +1,2 @@
-require "base"
-require "plugins"
-require "shortcuts"
-
-require "config.tree"
+require "core"
+require "config"

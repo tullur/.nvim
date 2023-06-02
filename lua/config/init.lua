@@ -1,0 +1,5 @@
+require "config.tree"
+require "config.theme"
+require "config.oil"
+require "config.lsp"
+require "config.go"

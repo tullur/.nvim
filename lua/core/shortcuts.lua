@@ -21,3 +21,9 @@ map("n", "sj", "<C-w>j", default_opts)
 map("n", "sl", "<C-w>l" , default_opts)
 
 map("n", "<Space>", "<C-w>w", default_opts)
+
+map("n", ";f", "<cmd> Telescope find_files<CR>", default_opts)
+map("n", ";r", "<cmd> Telescope live_grep<CR>", default_opts)
+map("n", ";b", "<cmd> Telescope buffers<CR>", default_opts)
+map("n", ";;", "<cmd> Telescope help_tags<CR>", default_opts)
+
