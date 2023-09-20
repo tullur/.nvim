@@ -5,6 +5,8 @@ return require("packer").startup(function(use)
   use "ellisonleao/gruvbox.nvim"
   use "sainnhe/gruvbox-material"
   use { "catppuccin/nvim", as = "catppuccin" }
+  use "tanvirtin/monokai.nvim"
+  use "Mofiqul/dracula.nvim"
 
   use {
       "nvim-treesitter/nvim-treesitter",
