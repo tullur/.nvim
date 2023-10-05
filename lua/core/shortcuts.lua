@@ -11,7 +11,7 @@ map("n", "ss", "<cmd> split<return><C-w>w", default_opts)
 map("n", "sv", "<cmd> vsplit<return><C-w>w", default_opts)
 
 map("n", "s<up>", "<C-w>k", default_opts)
-map("n", "s<down>", "<C-w>j", default_opts) 
+map("n", "s<down>", "<C-w>j", default_opts)
 map("n", "s<left>", "<C-w>h", default_opts)
 map("n", "s<right>", "<C-w>l", default_opts)
 

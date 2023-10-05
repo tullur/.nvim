@@ -25,4 +25,5 @@ require("gruvbox").setup({
 
 vim.g.gruvbox_material_disable_italic_comment = 1
 -- vim.cmd("colorscheme dracula")
-require('monokai').setup { italics = false }
+vim.cmd("colorscheme no-clown-fiesta")
+-- require('monokai').setup { italics = false }
